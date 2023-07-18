@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="BankManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BankManager_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BankManager.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$USER_HOME$/Desktop/Serveurs minecraft/test de plugin/plugins/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="BankManager" />
+      </element>
+    </root>
+  </artifact>
+</component>
